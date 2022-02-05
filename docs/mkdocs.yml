@@ -11,7 +11,15 @@ theme:
         accent: white
 nav:
     - Home: index.md
+    - JavaScript: javascript/index.md
+    - Python :
+      - python/index.md
+      - Code Snippets: python/code-snippets/scraping.md
+      - Tips: python/code-snippets/scraping.md
     - Markdown Addons: mkdocs-examples/addons.md
+plugins:
+  - section-index
+  - search
 markdown_extensions:
     - pymdownx.superfences
     - pymdownx.progressbar

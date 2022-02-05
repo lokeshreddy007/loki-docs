@@ -2,8 +2,6 @@
 
 All my cool things, well documented!
 
-View the documentation [here](https://lokeshreddy007.github.io/loki-docs/) for the full
-
 
 ## Steps
 
@@ -19,3 +17,17 @@ make run
 
 # if you have docker use docker
 ```
+
+## Plugins
+
+```bash 
+
+# https://github.com/oprypin/mkdocs-section-index
+# sub nav 
+pip install mkdocs-section-index
+
+
+```
+## Link for Reference
+1. [MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins#search--tables-of-content)
+2. [mkdocs](https://www.mkdocs.org/user-guide/configuration/#plugins)
