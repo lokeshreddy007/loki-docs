@@ -3,4 +3,5 @@
 mkdocs
 pymdown-extensions
 mkdocs-material
+mkdocs-section-index
 
