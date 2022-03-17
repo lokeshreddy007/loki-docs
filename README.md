@@ -1,4 +1,4 @@
-# loki-docs  [![Build Status](https://travis-ci.com/lokeshreddy007/loki-docs.svg?branch=master)](https://travis-ci.com/lokeshreddy007/loki-docs)
+# loki-docs  [![Build Status](https://app.travis-ci.com/lokeshreddy007/loki-docs.svg?branch=master)](https://app.travis-ci.com/github/lokeshreddy007/loki-docs)
 
 All my cool things, well documented!
 
@@ -31,3 +31,5 @@ pip install mkdocs-section-index
 ## Link for Reference
 1. [MkDocs-Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins#search--tables-of-content)
 2. [mkdocs](https://www.mkdocs.org/user-guide/configuration/#plugins)
+3. [Deploy](https://www.mkdocs.org/user-guide/deploying-your-docs/)
+4. [mkdocs-material](https://squidfunk.github.io/mkdocs-material/reference/images/#configuration)

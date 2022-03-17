@@ -11,7 +11,13 @@ theme:
         accent: white
 nav:
     - Home: index.md
-    - JavaScript: javascript/index.md
+    - JavaScript: 
+      - javascript/index.md
+      - Code Snippets: javascript/code-snippets/index.md
+      - Codedamm 50 Days Js: javascript/50-Days-of-JavaScript-by-Codedamn/index.md
+      - Tips: javascript/tips.md
+    - Node:
+      - node/index.md
     - Python :
       - python/index.md
       - Code Snippets: python/code-snippets/scraping.md
